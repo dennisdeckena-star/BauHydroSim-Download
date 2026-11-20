@@ -21,6 +21,8 @@ Kostenlose, deutschsprachige Lernsimulation für Auszubildende und Ausbilder.</p
 
 Im **Schaltplan-Baukasten** lassen sich Hydraulikbauteile platzieren und verbinden. Die 2D-Schaltung kann anschließend gemeinsam mit der 3D-Lernansicht betrachtet werden.
 
+Im Baukasten übernimmt der virtuelle Werkstattmeister die Prüfung. Die Anzeige **„Meister-Prüfung (OK)“** bedeutet, dass der Schaltplan die eingebauten Strukturprüfungen bestanden hat.
+
 ![BauHydroSim: 2D-CAD-Schaltplan und synchronisierte 3D-Lernansicht](assets/schaltplan-2d-3d.png)
 
 *2D/3D-Prüfansicht des Baukastens. Screenshot aus dem Ubuntu/Chromium-Build 1.2.2; die 3D-Komponentenansicht ist ein Lernmodell.*
