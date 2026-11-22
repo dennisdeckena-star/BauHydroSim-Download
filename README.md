@@ -10,6 +10,10 @@ Kostenlose, deutschsprachige Lernsimulation für Auszubildende und Ausbilder.</p
 <p align="center">
   <a href="https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/download/v1.2.2-alpha/BauHydroSim-Setup-x64-PRUEFKANDIDAT.exe">⬇️ Windows-Installer herunterladen</a>
   &nbsp;·&nbsp;
+  <a href="https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/download/v1.2.2-alpha/BauHydroSim-1.2.2-alpha-linux-amd64.snap">🐧 Ubuntu/Linux amd64 (Snap)</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/download/v1.2.2-alpha/BauHydroSim-1.2.2-alpha-linux-amd64.snap.sha256">SHA-256</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/download/v1.2.2-alpha/BauHydroSim_1.2_Alpha_Bedienungsanleitung_neu.pdf">📘 Deutsches Handbuch (PDF)</a>
 </p>
 
@@ -36,7 +40,7 @@ Im Baukasten übernimmt der virtuelle Werkstattmeister die Prüfung. Die Anzeige
 
 ## Download
 
-Die aktuelle Alpha **1.2.2 für Windows x64** ist als Pre-release verfügbar. Installer und Handbuch können einzeln über die Links oben geladen werden oder gemeinsam auf der [Release-Seite](https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/tag/v1.2.2-alpha).
+Die Alpha **1.2.2** ist als Windows-x64-Installer und als Linux-amd64-Snap-Paket im selben [GitHub-Release](https://github.com/dennisdeckena-star/BauHydroSim-Download/releases/tag/v1.2.2-alpha) verfügbar. Das Linux-Paket verwendet Core 26. Die Paketstruktur wurde geprüft; eine Installation und ein Start unter Strict Confinement sind noch nicht verifiziert. Für den lokalen Download: `sudo snap install --dangerous ./BauHydroSim-1.2.2-alpha-linux-amd64.snap`.
 
 ## Hinweise zur Alpha
 
