@@ -51,3 +51,7 @@ Die native Windows-11-Prüfung von Installation, Programmstart, Offlinebetrieb u
 ## Rückmeldung
 
 Was hilft beim Verstehen? Wo sind Bedienung oder Erklärung noch unklar? Rückmeldungen zu konkreten Beobachtungen helfen bei der Weiterentwicklung.
+
+## Lizenz
+
+BauHydroSim ist kostenlos für private Zwecke sowie für Aus- und Weiterbildung nutzbar. Alle Rechte vorbehalten; Details regelt die Datei [LICENSE](LICENSE) im Repository. Kommerzielle Nutzung und Weitergabe benötigen die schriftliche Zustimmung des Rechteinhabers.
